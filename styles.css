@@ -1,0 +1,37 @@
+#fondo{
+    background-color: #eaeaea;
+}
+#cabecera{
+    background-color: #ffffff;
+    height: 50px;
+    font-family: 'Arial';
+    text-align: center;
+}
+.contenedor{
+    background-color: #ffffff;
+    width: 600px;
+    margin: auto;
+    font-family: 'Arial';
+    margin-top: 40px;
+}
+.titulos{
+    font-weight: bolder;
+    margin-left: 15px;
+    padding-top: 10px;
+    font-size: 16px;
+    display: inline-block;
+}
+.imagen{
+    width: 100%;
+}
+.comentario{
+    margin: 20px;
+    padding-bottom: 1px;
+}
+span{
+    color: grey;
+    float: right;
+    position: relative;
+    top: 22px;
+    right: 15px;
+}
